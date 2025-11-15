@@ -1,3 +1,5 @@
+import React from "react";
+
 export const Section = ({ title, children }) => {
   return (
     <section style={{ marginBottom: 30 }}>
